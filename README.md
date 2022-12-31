@@ -31,4 +31,3 @@ nltk.download('wordnet')
 
 
 You can run the [chatbot.ipynb] which include step by step instructions.
-* Through Terminal
